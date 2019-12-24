@@ -79,6 +79,8 @@ this aasf repository accepts the pull  request
 
 - [@ashraygupta001](http://github.com/ashraygupta001)
 
+- [@Goshikhar23](http://github.com/Goshikhar23)
+
 - [@bhanu3509](https://github.com/bhanu3509)
 
 - [@jyotirmay2026](https://github.com/jyotirmay2026)
